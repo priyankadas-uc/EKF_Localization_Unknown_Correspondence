@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""EKFLOC_KNOWN_CORR.ipynb
+"""EKFLOC_UNKNOWN_CORR.py
 
 Created by Priyanka Das
 """
